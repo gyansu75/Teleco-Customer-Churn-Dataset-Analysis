@@ -89,10 +89,9 @@ The given dataset is of a Telecom Company named TELECO which consists of data re
 
 3. The graph shows that, for the Tenure which were greater than 36 (mean value of the Tenure Column) show less Customer Churn rate than for the Tenure of < = 36.  
 
-![Alt Text](cr_duration.png)
+![Alt Text](charge.png)
 
-3. The graph shows that, for the Tenure which were greater than 36 (mean value of the Tenure Column) show less Customer Churn rate than for the Tenure of < = 36.
-
+3. The line graph shows that, Higher Service Charges led to increase in Customer Churning.
 ---
 
 ## 🧠 Conclusion & Recommendations
