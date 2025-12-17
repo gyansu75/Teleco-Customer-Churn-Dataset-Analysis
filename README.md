@@ -55,15 +55,15 @@ This is a project I did for Scriptguru Digital Solutions Pvt. Ltd , where I buil
 ---
 
 ## 📈 Key Findings
-![Alt Text]()
+![Alt Text](cr_month.png)
 
 1. The Bar graph shows the reservations that are canceled and those that are not. According to the Analysis performed we found out that approx 37 % of clients canceled their reservations,that is a key factor contributing to decline in hotel earnings ,though, the number of bookings were high enough.
 
-![Alt Text]()
+![Alt Text](duration_variation.png)
 
 2. This shows in comparison to resort hotels, city hotels have more bookings, indicating that resort hotels have higher prices.
 
-![Alt Text]()
+![Alt Text](cr_duration.png)
 
 3. The Line graph shows that,on certain days,the average daily rate for a city hotel is less than that of resort hotels and on some days it is less. This indicates that weekends and holidays may see price hikes in resort hotels' rates.
 
