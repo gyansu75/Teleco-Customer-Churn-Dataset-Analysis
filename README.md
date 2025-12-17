@@ -5,18 +5,28 @@
 This is a project I did for Scriptguru Digital Solutions Pvt. Ltd , where I build a recommendation system for a Telecom Company named TELECO on there Churn Data set.
 
 ## 📌 Project Overview
+The given dataset is of a Telecom Company named TELECO which consists of data regarding :
+- Customers who left within the last month – the column is called Churn
+- Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+- Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
+- Demographic info about customers – gender, age range, and if they have partners and dependents
 
 
 ---
 ## Assumptions
-1.
+1.Churn rate varies due to the **type of Contract** .
+2.Churn rate increases as the Duration of the **Tenure** is longer.
+3.Concentration in **variation of the Tenure** is high.
 
 ---
 
     
 
 ## 🎯 Problem Statement
-- 
+- Check the Churn Rates for each type of Contract and plot the information in a Bar graph of Analysis
+- Check the Variation concentration of Tenure and find out if variation is high or low
+- Prepare a graph to compare Churn Rates for Long v/s Short Tenure
+- Give Recommendations Based on Analysis
 
 ---
 
