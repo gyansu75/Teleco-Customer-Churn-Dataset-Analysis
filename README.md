@@ -110,7 +110,7 @@ The given dataset is of a Telecom Company named TELECO which consists of data re
 ## ✍️ Author
 **Gaurav Gyansu**  
 *Data Analytics Portfolio Project*  
-📧 [gyansu75@gmail.com] | 🔗 [LinkedIn](www.linkedin.com/in/gaurav-gyansu-66b1121b9)
+📧 [Email](gyansu75@gmail.com) | 🔗 [LinkedIn](www.linkedin.com/in/gaurav-gyansu-66b1121b9)
 
 ---
 
