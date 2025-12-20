@@ -1,6 +1,6 @@
 # 📊 Gaurav's Analytics Portfolio
 
-# [ Teleco-Customer-Churn-Dataset-Analysis]()
+# [ Teleco-Customer-Churn-Dataset-Analysis](https://github.com/gyansu75/Teleco-Customer-Churn-Dataset-Analysis)
 
 This is a project I did for Scriptguru Digital Solutions Pvt. Ltd , where I build a recommendation system for a Telecom Company named TELECO on there Churn Data set.
 
